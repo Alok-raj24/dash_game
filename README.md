@@ -1,1 +1,1 @@
-# dash_game
+# dice_game
