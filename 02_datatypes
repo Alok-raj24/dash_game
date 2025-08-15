@@ -1,0 +1,56 @@
+console.log(2+3);
+ 
+console.log("manjit"); 
+/*
+let name = "Alok";
+let age = 25;
+let isLoggeedIn = False;
+
+// number => 2 to power 53;
+//bigint
+// string => ""
+// boolean => true/false;
+// null => standlone value ("empty value")
+// undefined => 
+//symbol => unique
+
+
+//object  */
+
+/* console.log(typeof "manjit");
+console.log(typeof 1234);
+console.log(typeof true,false)
+
+let num1 =2 ;
+let num2 = 4;
+if (num1<=num2){
+    console.log("greater")
+}else {
+    console.log("smaller")
+}
+ let someNumber = 32
+
+let stringNumber = string(someNumber)
+console.log(stringNumber);
+console.log(typeof stringNumber);
+
+
+                //   OPERATIONS
+
+let value = 3;
+var console: console
+// console.log(negValue); */
+
+
+let str1 = "hello";
+let str2 = " manjit";
+let str3 = str1 + str2
+console.log(str3);
+
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 +2);
+console.log(1 + 2 + "2");
+
+            //  COMPSRISON
